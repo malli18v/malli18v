@@ -1,4 +1,4 @@
-Sure, here's a sample README for a DevOps engineer:
+
 
 ---
 
@@ -68,7 +68,7 @@ If you're interested in collaborating or have any questions about my projects or
 
 ---
 
-Feel free to customize this README according to your specific experiences, skills, and projects!
+
 
 <!---
 malli18v/malli18v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
