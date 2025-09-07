@@ -9,7 +9,6 @@ About Me
 💼 I enjoy working on projects with REST APIs, user authentication, and real-time features.
 
 📫 Reach me at mallikarjunaraovasantha@gmail.com
- or LinkedIn
 
 Tools I Use
 
@@ -25,7 +24,3 @@ Deployment: Docker, AWS, Heroku
 
 Version Control: Git, GitHub
 
-<!---
-malli18v/malli18v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
